@@ -1,0 +1,18 @@
+# Raw market data (large, regenerable via data_layer.py - don't commit)
+prices.csv
+daily_returns.csv
+
+# Keep result files (portfolio_mandates.csv, var_cvar_results.csv,
+# stress_test_results.csv, efficient_frontier.png) - these ARE the deliverable
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+Mandate,Daily VaR (95%),Daily CVaR (95%),Daily VaR (99%),Daily CVaR (99%),Max Daily Loss (historical)
+Conservative,0.0052,0.008,0.0097,0.0125,0.0254
+Moderate,0.0116,0.0186,0.0219,0.0316,0.0705
+Aggressive,0.0084,0.0131,0.0155,0.0219,0.048
